@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root>
+  <class name="MainForm">
+    <method name="doButtonClickLeft">
+      <message kind="ERROR" kind-type="string" value="Payment not made" value-type="string" wait="1" wait-type=""/>
+    </method>
+  <method name="doLinkClickLeft">
+      <browse url="https://en.wikipedia.org/wiki/Bitcoin" url-type="string"/>
+    </method>
+  </class>
+</root>
